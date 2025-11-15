@@ -1,4 +1,4 @@
-package homework03.Car;
+package homework03.ParkingFeeSystem_part1;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
