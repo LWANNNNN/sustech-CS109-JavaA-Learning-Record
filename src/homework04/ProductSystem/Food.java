@@ -1,0 +1,9 @@
+package homework04.ProductSystem;
+
+public class Food extends Product
+{
+    public Food(String name, int price, int stockQuantity)
+    {
+        super(name, price, stockQuantity, ProductType.FOOD);
+    }
+}
